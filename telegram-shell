@@ -1,0 +1,7 @@
+#!/bin/bash
+
+telegram -u 9962240050 -k /home/welkin/.telegram/tg-server.pub -W <<EOF
+  msg $1 $2
+  safe_quit
+EOF
+
