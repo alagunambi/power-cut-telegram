@@ -7,7 +7,7 @@ require 'open-uri'
 
 # Primary variables
 source = "http://tneb.tnebnet.org/cpro/today.html"
-area = "Velacherry"
+area = "Velachery"
 
 # Check for necessary executable
 # exec('[ -f /bin/telegram-shell ] && echo "Telegram-shell found." || echo "Telegram-shell is Not Found at /bin :("')
