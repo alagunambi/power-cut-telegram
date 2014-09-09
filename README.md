@@ -3,6 +3,9 @@ power-cut-telegram
 
 Power cut notifier for telegram
 
+Note: Registerd at https://my.telegram.org/ and create an app, which will give you a public key, to use telegram-cli.
+
+
 Step 1:
 ======
 Install telegram-cli
